@@ -1,0 +1,17 @@
+Question 1
+The Python 3 threading and multiprocessing libraries implement the same programming interface? /true
+
+Question 2
+Using threading, programs can acheive the same capabilities as with multiprocessing, including networking or outside of program context?/false
+
+Question 3
+Which is not part of the asyncio syntax? / del
+
+Question 4
+Presuming that there is an async function called print_time, which of the following commands when used in the blank space in the statement below would be used to start and block for its completion: 
+
+___________________ print_time() / await
+
+Question 5
+In the threading library, which single command executes one or more functions with arguments? / start_new_thread
+
